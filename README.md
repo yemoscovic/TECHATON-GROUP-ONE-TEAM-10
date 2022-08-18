@@ -1,6 +1,6 @@
 # TECHATON-GROUP-ONE-TEAM-10
 PIGGY VEST LANDING PAGE
 OUTLINES
--Landing page
--Login page
--Sign-up page
+- Landing page
+- Login page
+- Sign-up page
