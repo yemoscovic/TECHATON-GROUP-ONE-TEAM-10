@@ -1,0 +1,219 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing:border-box;
+}
+body{
+    font-family: 'DM Sans', sans-serif;
+    color: #353535;
+}
+nav{
+    background-color:#fff;
+    width:100%;
+    padding: 20px 80px;
+    position: fixed;
+    z-index:1;
+}
+.left-side{
+    display:flex;
+    justify-content:space-between;
+    width:55%;
+}
+.left-side img{
+    width:170px;
+}
+.left-side ul{
+     display:flex;
+     margin-top:21px;
+}
+.left-side li{
+    list-style-type: none;
+    padding:0px 25px;
+}
+.left-side li a{
+    text-decoration:none;
+    font-size:1rem;
+    font-weight:600;
+    color:#515050;
+}
+.navigation{
+    display:flex;
+    justify-content: space-between;
+}
+.right-side .Sign-In-btn{
+    background-color: #fff;
+    border:1px solid rgb(210, 208, 208);
+    padding:17px;
+    border-radius:10px;
+    width:90px;
+    font-size:1rem;
+    color:#000;
+    font-weight:600;
+    margin-right:5px;
+}
+.right-side .Sign-In-btn a{
+    text-decoration:none;
+    font-size:1rem;
+    font-weight:600;
+    color:#000;
+}
+.right-side .Sign-In-btn:hover{
+    color:rgb(16, 16, 251);
+    border:1px solid rgb(16, 16, 251);
+    transition:all 0.5s ease-in-out;
+}
+.right-side .Sign-In-btn a:hover{
+    color:rgb(16, 16, 251);
+    transition:all 0.5s ease-in-out;
+}
+.right-side .Create-account{
+    background-color: rgb(53, 53, 53);
+    border-radius:10px;
+    width:200px;
+    color:#fff;
+    font-size:1rem;
+    font-weight:600;
+    padding:17px;
+    border:none;
+}
+.right-side .Create-account a{
+    text-decoration:none;
+    font-size:1rem;
+    font-weight:600;
+    color:white;
+}
+.right-side .Create-account:hover{
+    background-color: rgb(16, 16, 251);
+    transition:all 0.8s ease-in-out;
+}
+.special-bg{
+    position:relative;
+    background-color: rgb(249,249,249);
+    height:750px;
+    max-width:75%;
+    z-index:0;
+    left:820px;
+}
+/* =================================================HEADER=============================================================== */
+.flex-house{
+    display:flex;
+    padding:100px 80px;
+    padding-top:100px;
+    max-width:77%;
+    height:800px;
+    margin-bottom:70px;
+}
+.the-texts h1{
+    font-size:63px;
+    margin-top:-35rem;
+    line-height:82.5px;
+    font-weight:600;
+}
+.the-texts p{
+    font-size:17px;
+    line-height:27.2px;
+    color:#515050;
+    max-width:500px;
+    margin-top:0.5rem;
+}
+.rectangle{
+    height:90vh;
+    position:relative;
+    left:60%;
+    top:15%;
+}
+.lady{
+    height:80vh;
+    position:absolute;
+    top:221px;
+    right:210px;
+}
+.rent{
+    position:absolute;
+    width:210px;
+    height:120px;
+    bottom:170px;
+    right:470px;
+}
+.investify{
+    position:absolute;
+    width:210px;
+    height:120px;
+    bottom:-80px;
+    right:110px;
+}
+.cross-headerIcon{
+    position:absolute;
+    top:185px;
+    right:547px;
+}
+.circle-headerIcon{
+    position:absolute;
+    bottom:250px;
+    right:190px;
+}
+.dot-headerIcon{
+    position:absolute;
+    bottom:-10px;
+    right:570px;
+}
+.first-flex .Create-account{
+    background-color: rgb(53, 53, 53);
+    border-radius:10px;
+    width:200px;
+    color:#fff;
+    font-size:1rem;
+    font-weight:600;
+    padding:17px;
+    border:none;
+    margin-top:1.8rem
+}
+.first-flex .Create-account a{
+    text-decoration:none;
+    font-size:1rem;
+    font-weight:600;
+    color:white;
+}
+.first-flex .Create-account:hover{
+    background-color: rgb(16, 16, 251);
+    transition:all 0.8s ease-in-out;
+}
+.seconf-flex{
+    position:relative;
+}
+.download{
+    display:flex;
+    margin-top:35px;
+}
+.download button{
+    width:150px;
+    border-radius:12px;
+    padding:10px;
+    border:none;
+    border:1px solid rgb(210, 208, 208);
+    background-color: #fff;
+    transform:translateY(10px);
+}
+.download button:hover{
+    transform:translateY(0px);
+    transition:transform 0.5s ease-in-out;
+}
+.download a{
+    display:flex;
+    text-decoration: none;
+    color:rgb(17, 16, 16);
+    font-size:14px;
+    width:100%;
+}
+.download a p{
+    margin-top:5px;
+    padding-left:5px;
+}
+.ios{
+    margin-right:17px;
+}
+.me{
+    z-index:1;
+    max-width:100%;
+}
+
