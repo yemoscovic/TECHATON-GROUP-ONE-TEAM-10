@@ -1,22 +1,22 @@
-# TECHATON-GROUP-ONE-TEAM-10
-PIGGY VEST LANDING PAGE
-OUTLINES
+# TECHATON-GROUP-ONE-TEAM-10**
+saveNest**************
+Features
 - Landing page
 - Login page
 - Sign-up page
 
-# Piggvest landing page
+# saveNest landing page
 
 
 ## Welcome
 
 
-Thanks for checking out this building a clone of the Piggyvest landing page
+Thanks for checking out this building a platform for better saving for all individuals with some features like the signup page, login page.
 
 
 ## Challenge
 
- The project is basically about cloning Piggyvest landing page with some features like the signup page, login page with validation.
+ The project is basically about building a platform for better saving for all individuals with some features like the signup page, login page.
 
 
 README.md
